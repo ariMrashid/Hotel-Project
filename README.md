@@ -19,8 +19,7 @@ A Java program to manage hotel booking.
 - allow for the deletion of information, regarding rooms, rates, menu items, prices, and user profiles.
 - allow for the modification of information, regarding rooms, rates, menu items, prices, and user profiles.
 
-## Name of Members
-
+## Team members
 - Ari
 - Eron
 - Dunya
