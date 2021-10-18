@@ -1,4 +1,4 @@
-packege classes;
+package classes;
 
 public class Booking{
   
